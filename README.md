@@ -8,8 +8,15 @@ branch a
 
 branch c
 
+update start
 
-branch E
+update mid
+
+
+update end
+
+
+
 
 new branch test
 insert a line when update
